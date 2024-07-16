@@ -29,8 +29,13 @@ Este projeto realiza a análise dos motivos de desligamento de funcionários de 
 
 Verifique os gráficos gerados para analisar a distribuição dos motivos de desligamento.
 
-### Exemplo de Saída
+## Resultados
 - Gráfico de barras horizontais mostrando a distribuição percentual dos motivos de desligamento.
+
+![image](https://github.com/user-attachments/assets/4fb7c238-b7d3-4597-9d34-2c1be5b67e14)
+
+Pode-se perceber, que durante o periodo descrito, o principal motivo que levou os colaboradores a pedirem demissão foi outra oferta de emprego. 
+
 
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para melhorar este script ou adicionar novas funcionalidades.
